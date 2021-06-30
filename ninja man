@@ -1,0 +1,4 @@
+getgenv().AutoFarm = state;
+getgenv().Quest = 'Training Dummy';
+
+loadstring(game:HttpGet("https://pastebin.com/raw/Dvf5UTF2", true))();
